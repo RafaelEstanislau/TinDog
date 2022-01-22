@@ -180,4 +180,11 @@ p{
         position: static;
         transform: rotate(0);
     }
+     h3{
+        font-size: 2rem;
+    }
+
+    p{
+        font-size: 1.2rem;
+    }
 }
